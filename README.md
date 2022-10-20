@@ -10,4 +10,4 @@
 - 🔭 Trabajando en PHP desarrollando algunas librerías de uso abierto y para proyectos de pago
 - 🌱 Escribiendo en PHP, JS, TypeScript, utilizando Angular, Laravel, también ChiaLisp (dinero programable) Actualmente en 7mo semestre de la Lic. en Desarrollo de Sistemas Web de la Universidad de Guadalajara
 - 👯 Acepto invitaciones para trabajar en proyectos de uso libre y cualquier otro proyecto remunerado
-- 📫 Me pueden encontrar en Twitter @0sdelri0 - osdelrio@hotmail.com
+- 📫 Me pueden encontrar en Twitter @0sdelri0 - osdelrio@hotmail.com Linkedin - https://www.linkedin.com/in/osvaldo-noe-gonzalez-del-rio/
