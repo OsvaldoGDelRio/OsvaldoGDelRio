@@ -3,11 +3,14 @@
 <!--
 **OsvaldoGDelRio/OsvaldoGDelRio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- Mi nombre es Osvaldo, llevo aprendiendo y desarrollando sistemas web desde PHP 5 :P
+- My name is Osvaldo, and I have been learning and developing web systems since PHP 5 :P
 
-### Actuamente:
 
-- 🔭 Trabajando en PHP desarrollando algunas librerías de uso abierto y para proyectos de pago
-- 🌱 Escribiendo en PHP, JS, TypeScript, utilizando Angular, Laravel, también ChiaLisp (dinero programable) Actualmente en 7mo semestre de la Lic. en Desarrollo de Sistemas Web de la Universidad de Guadalajara
-- 👯 Acepto invitaciones para trabajar en proyectos de uso libre y cualquier otro proyecto remunerado
-- 📫 Me pueden encontrar en Twitter @0sdelri0 - osdelrio@hotmail.com Linkedin - https://www.linkedin.com/in/osvaldo-noe-gonzalez-del-rio/
+### Currently:
+
+- 🔭 Working in PHP,JS,Python developing open-source libraries and working on paid projects.
+- 🌱 Proficient in PHP, JS, TypeScript, utilizing Angular and Laravel. Also experienced in ChiaLisp (programmable money).
+- 🎓 Bachelor's Degree in Web Development Systems from the University of Guadalajara, a Bachelor's Degree in Law from UNADM, and a Bachelor's Degree in Psychology from IEU.
+- 👯 Open to collaborating on open-source projects as well as paid opportunities.
+- 📫 You can find me on Twitter @0sdelri0, LinkedIn - https://www.linkedin.com/in/osvaldo-noe-gonzalez-del-rio/
+
