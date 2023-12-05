@@ -8,9 +8,12 @@
 
 ### Currently:
 
-- 🔭 Working in PHP,JS,Python developing open-source libraries and working on paid projects.
-- 🌱 Proficient in PHP, JS, TypeScript, utilizing Angular and Laravel. Also experienced in ChiaLisp (programmable money).
-- 🎓 Bachelor's Degree in Web Development Systems from the University of Guadalajara, a Bachelor's Degree in Law from UNADM, and a Bachelor's Degree in Psychology from IEU.
+- 🔭 Working in Ruby, PHP,JS,Python developing open-source libraries and working on paid projects.
+- 🌱 Proficient in Ruby, PHP, JS, TypeScript, utilizing Rails, Angular and Laravel.
+- 🎓 Bachelor's Degree in:
+      Web Development Systems from UdG, a
+      Law from UNADM, and
+      Psychology from IEU.
 - 👯 Open to collaborating on open-source projects as well as paid opportunities.
-- 📫 You can find me on Twitter @0sdelri0, LinkedIn - https://www.linkedin.com/in/osvaldo-noe-gonzalez-del-rio/
+- 📫 You can find me on Twitter @0sdelri0, LinkedIn - https://www.linkedin.com/in/osvaldo-noe-gonzalez-del-rio/  - osvaldogdelrio@gmail.com
 
